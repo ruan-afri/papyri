@@ -3,7 +3,7 @@
 //Connection Variables
 $servername = "localhost";
 $username = "papyri_user";
-$password = "mkv2vob2010";
+$password = "password";
 
 try {
 
